@@ -20,7 +20,7 @@
       </div>
       <span class="menu">&#9776;</span><br>
     <header class="header">
-      <img  class="logo" src="./images/cabernet_malec-removebg-preview.png" alt="">
+<!--       <img  class="logo" src="./images/cabernet_malec-removebg-preview.png" alt=""> -->
       <h1 class="heading-primary">
           <span class="heading-primary-main" >outdoors</span>
           <span class="heading-primary-sub" >is where life happens</span>
